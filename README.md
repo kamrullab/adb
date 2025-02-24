@@ -12,7 +12,15 @@ ADB (Android Debug Bridge) is a versatile command-line tool that allows develope
 - Reboot and recover device functions
 - Bypass bloatware and uninstall system apps
 
+
+
+
 ## 🚀 Installation
+
+
+### **Download ADB**
+You can download ADB directly from the following link:
+[Download ADB.zip](https://github.com/kamrullab/adb/raw/refs/heads/main/ADB.zip)
 
 ### **Windows**
 1. Download the ADB Platform Tools from [Google's official site](https://developer.android.com/studio/releases/platform-tools).
